@@ -1,0 +1,153 @@
+{
+  "Brands": [
+    {
+      "BrandName": "BMW",
+      "Models": [
+        {
+          "ModelName": "X5",
+          "ProductionYears": [
+            {
+              "Year": 2020,
+              "Parts": [
+                {
+                  "PartName": "Brake Discs",
+                  "Price": 100.50
+                },
+                {
+                  "PartName": "Oil Filter",
+                  "Price": 20.99
+                }
+              ]
+            },
+            {
+              "Year": 2021,
+              "Parts": [
+                {
+                  "PartName": "Air Filter",
+                  "Price": 25.00
+                },
+                {
+                  "PartName": "Clutch",
+                  "Price": 150.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ModelName": "X6",
+          "ProductionYears": [
+            {
+              "Year": 2019,
+              "Parts": [
+                {
+                  "PartName": "Clutch",
+                  "Price": 150.75
+                },
+                {
+                  "PartName": "Radiator",
+                  "Price": 200.00
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "BrandName": "Toyota",
+      "Models": [
+        {
+          "ModelName": "Corolla",
+          "ProductionYears": [
+            {
+              "Year": 2020,
+              "Parts": [
+                {
+                  "PartName": "Brake Discs",
+                  "Price": 100.50
+                },
+                {
+                  "PartName": "Oil Filter",
+                  "Price": 20.99
+                }
+              ]
+            },
+            {
+              "Year": 2021,
+              "Parts": [
+                {
+                  "PartName": "Air Filter",
+                  "Price": 25.00
+                },
+                {
+                  "PartName": "Clutch",
+                  "Price": 150.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ModelName": "Camry",
+          "ProductionYears": [
+            {
+              "Year": 2019,
+              "Parts": [
+                {
+                  "PartName": "Clutch",
+                  "Price": 150.75
+                },
+                {
+                  "PartName": "Radiator",
+                  "Price": 200.00
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "BrandName": "Honda",
+      "Models": [
+        {
+          "ModelName": "Civic",
+          "ProductionYears": [
+            {
+              "Year": 2018,
+              "Parts": [
+                {
+                  "PartName": "Brake Pads",
+                  "Price": 60.00
+                },
+                {
+                  "PartName": "Fuel Filter",
+                  "Price": 15.99
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ModelName": "Accord",
+          "ProductionYears": [
+            {
+              "Year": 2020,
+              "Parts": [
+                {
+                  "PartName": "Radiator",
+                  "Price": 200.00
+                },
+                {
+                  "PartName": "Oil Filter",
+                  "Price": 20.99
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
